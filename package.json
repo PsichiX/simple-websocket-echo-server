@@ -1,0 +1,11 @@
+{
+  "name": "simple-websocket-echo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Patryk 'PsichiX' Budzynski <psichix@gmail.com> (http://psichix.com)",
+  "license": "MIT"
+}
